@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Enduxion or Pawan
-- 👀 I’m interested in developing games in C++ and just programming in general
-- 🌱 I’m currently learning "everything"
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in developing games in C++, designing and developing full-stack apps and just programming in general
+- 🌱 I’m currently learning many things
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: 
 -   email: endux.pg@gmail.com
 -   facebook: https://www.facebook.com/fytpr
