@@ -6,6 +6,6 @@ You can reach me via:
 
 Email #1: endux.pg@gmail.com
 Email #2: pg.pawangurung@gmail.com
-Facebook: www.facebook.com/fytpr
+Facebook: www.facebook.com/enduxion
 
 I am ready to apply my knowledge in effective problem solving and interested in the further work in the sphere.
